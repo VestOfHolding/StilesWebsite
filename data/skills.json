@@ -1,0 +1,61 @@
+[
+  {
+    "grouping": "Languages",
+    "skills": [
+      "Java",
+      "Python",
+      "Javascript",
+      "SQL",
+      "R",
+      "HTML5",
+      "MATLAB",
+      { "name": "C#", "icon": "dotnet" },
+      "Ruby"
+    ]
+  },
+  {
+    "grouping": "Databases",
+    "skills": [
+      "SQL",
+      { "name": "Solr", "icon": "database" },
+      { "name": "Oracle", "icon": "database" }
+      
+    ]
+  },
+  {
+    "grouping": "Frameworks",
+    "skills": [
+      { "name": "Spring", "icon": "coda" },
+      { "name": "Hibernate", "icon": "database" },
+      "React"
+    ]
+  },
+  {
+    "grouping": "Operating Systems & Containers & Cloud",
+    "skills": ["Linux", "Windows", "Docker", "AWS", "Google Cloud Platform"]
+  },
+  {
+    "grouping": "Tools",
+    "skills": [
+      "git",
+      { "name": "Github", "icon": "git_pull_request" },
+      { "name": "Bitbucket", "icon": "git_pull_request" },
+      "Datadog",
+      "Kibana",
+      "Jenkins",
+      "Jira",
+      "QGIS",
+      "Blender",
+      { "name": "GIMP", "icon": "illustrator" },
+      { "name": "VS Code", "icon": "visualstudio" },
+      "IntelliJ",
+      { "name": "Microsoft Office", "icon": "windows" },
+    ]
+  },
+  {
+    "grouping": "Domain Knowledge",
+    "skills": [
+      "Health Care"
+    ]
+  }
+]

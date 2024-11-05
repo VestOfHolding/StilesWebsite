@@ -1,0 +1,22 @@
+title = "Robert (Bobby) Stiles"
+baseURL = "https://example.com/"
+theme = "hugo-resume"
+languageCode = "en-us"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
+[params]
+address = "Portland, OR"
+email = "bstiles2190@gmail.com"
+favicon = "/favicon.ico"
+firstName = "Bobby"
+lastName = "Stiles"
+phone = "1-503-913-4559"
+profileImage = "assets/VestIcon.png"
+showQr = true
+showContact = true
+# ERROR is due to missings sections (skills.json)
+# sections = ["skills","publications","creations","contributions","experience","education","blog"]
+sections = ["skills","experience","education","certifications"]
