@@ -49,7 +49,7 @@
       { "name": "GIMP", "icon": "illustrator" },
       { "name": "VS Code", "icon": "visualstudio" },
       "IntelliJ",
-      { "name": "Microsoft Office", "icon": "windows" },
+      { "name": "Microsoft Office", "icon": "windows" }
     ]
   },
   {
