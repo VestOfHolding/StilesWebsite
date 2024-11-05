@@ -14,9 +14,10 @@ favicon = "/favicon.ico"
 firstName = "Bobby"
 lastName = "Stiles"
 phone = "1-503-913-4559"
-profileImage = "assets/VestIcon.png"
-showQr = true
+profileImage = "images/VestIcon.png"
+showQr = false
 showContact = true
+showCertifications = true
 # ERROR is due to missings sections (skills.json)
 # sections = ["skills","publications","creations","contributions","experience","education","blog"]
 sections = ["skills","experience","education"]
