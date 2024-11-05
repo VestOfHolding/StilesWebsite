@@ -19,4 +19,4 @@ showQr = true
 showContact = true
 # ERROR is due to missings sections (skills.json)
 # sections = ["skills","publications","creations","contributions","experience","education","blog"]
-sections = ["skills","experience","education","certifications"]
+sections = ["skills","experience","education"]
