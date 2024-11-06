@@ -18,6 +18,21 @@ profileImage = "images/VestIcon.png"
 showQr = false
 showContact = true
 showCertifications = true
-# ERROR is due to missings sections (skills.json)
 # sections = ["skills","publications","creations","contributions","experience","education","blog"]
 sections = ["skills","experience","education"]
+
+[params.google]
+
+[[params.handles]]
+link = "https://www.linkedin.com/in/robertestiles/"
+name = "LinkedIn"
+
+[[params.handles]]
+link = "https://github.com/VestOfHolding"
+name = "GitHub"
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"
