@@ -1,32 +1,31 @@
 [
   {
     "role": "Freelance Foundry Module Developer",
-    "company": "N/A",
-    "summary": "Making freelance modules",
+    "summary": "\n- Create premium modules for Foundry Virtual Tabletop on behalf of various clients.\n- Developed custom workflows in Python and Javascript to automate the data entry from PDFs.",
     "range": "Nov 2020 - *"
   },
   {
     "role": "Software Engineer",
     "company": "Metron",
-    "summary": "MATLAB things",
+    "summary": "\n- Led the upgrading of legacy MATLAB applications into modern Java products, including using JNI to connect with programs written in C to optimize performance.\n- These MATLAB products were math-heavy products that involved processing sonar readings.\n- Adopted Agile and Scrum best practices within the teams I worked in.\n- Created proof of concepts of reactive web UIs for our products using D3, React, and Javascript.",
     "range": "March 2023 - April 2024"
   },
   {
     "role": "Contractor",
     "company": "Astral Tabletop",
-    "summary": "Character Sheet Design",
+    "summary": "Contracted to improve support for the roleplaying game “Pathfinder 2nd Edition” by designing and developing interactive character sheets, including specialized sheets for specific character options, to improve user engagement and ease of use for many different players.",
     "range": "June 2020 - June 2021"
   },
   {
     "role": "Adjunct Teacher",
     "company": "University of Portland",
-    "summary": "Teach stuff",
+    "summary": "\n- Taught the Intro to Computer Science lab (CS273) using Java as the students’ introductory language.\n- Updated labs to use functional Java paradigms and simplified examples from my industry experience.\n- Achieved an approval rating of over 90% from the students at the end of the semester.",
     "range": "January 2019 - May 2019"
   },
   {
     "role": "Software Engineer",
     "company": "Healthsparq/Kyruus Health",
-    "summary": "So many things",
+    "summary": "\n- Worked primarily as a back-end Java developer using Spring Boot with our data stored in Solr.\n- Worked on the data management team, where I ingested data through Airflow and Dataflow, debugging data using BigQuery, SQL, and Google Cloud Platform in general.\n- Created an ETL pipeline for transforming data using AWS Batch, Step Functions, and Lambdas.\n- Maintained analytics and dashboards for our services using Kibana and Datadog.\n- Trained myself on using the Selenium and Cucumber frameworks to assist the QA automation team.\n- Led a team for over a year on the development of new features and collaborating with stakeholders on the prioritization and planning of projects\n- Transitioned our product from large releases to a CI/CD pipeline of many microservices. This included working with stakeholders to design the RESTful APIs for our microservices.\n- Mentored almost all the engineering interns we had over the years and many junior developers.",
     "range": "May 2014 - Sep 2022"
   }
 ]

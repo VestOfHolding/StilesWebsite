@@ -32,30 +32,27 @@
   },
   {
     "grouping": "Operating Systems & Containers & Cloud",
-    "skills": ["Linux", "Windows", "Docker", "AWS", "Google Cloud Platform"]
+    "skills": [
+      "Linux", "Windows", "Docker", "AWS", 
+      { "name": "Google Cloud Platform", "icon": "google-cloud-platform" }
+    ]
   },
   {
     "grouping": "Tools",
     "skills": [
       "git",
       { "name": "Github", "icon": "git_pull_request" },
-      { "name": "Bitbucket", "icon": "git_pull_request" },
+      { "name": "Bitbucket", "icon": "bitbucket" },
       "Datadog",
       "Kibana",
       "Jenkins",
       "Jira",
       "QGIS",
       "Blender",
-      { "name": "GIMP", "icon": "illustrator" },
+      { "name": "GIMP", "icon": "photoshop" },
       { "name": "VS Code", "icon": "visualstudio" },
       "IntelliJ",
       { "name": "Microsoft Office", "icon": "windows" }
-    ]
-  },
-  {
-    "grouping": "Domain Knowledge",
-    "skills": [
-      "Health Care"
     ]
   }
 ]
