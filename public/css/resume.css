@@ -6,7 +6,8 @@ html {
 body {
   font-family: 'Open Sans', serif;
   padding-top: 54px;
-  color: #22222C;
+  color: #F4F1F3;
+  background-color: #22222C;
 }
 
 @media (min-width: 992px) {
@@ -144,11 +145,11 @@ section.resume-section .resume-item .resume-date {
 }
 
 .text-primary {
-  color: #134611 !important;
+  color: #68A9AB !important;
 }
 
 a {
-  color: #134611;
+  color: #68A9AB;
 }
 
 a:hover, a:focus, a:active {

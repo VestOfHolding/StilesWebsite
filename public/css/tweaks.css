@@ -98,7 +98,7 @@ div.skills-heading{
 
 .tag:hover {
   background-color: crimson;
-  color: #22222C;
+  color: #F4F1F3;
 }
 
 .tag:hover::after {
