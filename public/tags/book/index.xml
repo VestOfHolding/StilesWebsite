@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Book on Robert (Bobby) Stiles</title>
+    <link>http://localhost:1313/tags/book/</link>
+    <description>Recent content in Book on Robert (Bobby) Stiles</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/book/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Draconic Character Options for Pathfinder 2nd Edition</title>
+      <link>http://localhost:1313/publications/draconiccharacteroptions/</link>
+      <pubDate>Sat, 18 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/draconiccharacteroptions/</guid>
+      <description>&lt;p&gt;Walking the path of the dragon can grant you immense power, but true dragons come in many shapes and dispositions, so choose carefully. Some may ask for a cost you cannot pay, or don’t understand. Some may offer you sage advice on how to move forward, while yet others will obliterate you on the spot.&lt;/p&gt;&#xA;&lt;p&gt;Within this supplement, you will find many new dragon-themed player options, and expanded existing options to encompass choosing options to reflect all types of true dragons. This covers all 7 categories and 39 types of true dragon!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
