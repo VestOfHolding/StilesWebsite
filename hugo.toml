@@ -18,6 +18,7 @@ profileImage = "images/VestIcon.png"
 showQr = false
 showContact = true
 showCertifications = true
+showSocializations = true
 # sections = ["skills","publications","creations","contributions","experience","education","blog"]
 sections = ["skills","experience","education"]
 
