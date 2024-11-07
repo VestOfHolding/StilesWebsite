@@ -6,28 +6,14 @@
     <description>Recent content in Open Source Contributions on Robert (Bobby) Stiles</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jan 2020 17:09:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/projects/contributions/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Atlassian Deployment Triggers</title>
-      <link>http://localhost:1313/projects/contributions/deploy-triggers/</link>
+      <title>Interactive Map of Golarion</title>
+      <link>http://localhost:1313/projects/contributions/golarion-map/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/contributions/deploy-triggers/</guid>
-      <description>&lt;p&gt;Addressed pretty significant page load performance issue founde in larger deployments. Eliminates uses of intensive backend query, replacing it with an asynchronous API call against a lucene index. This change reduces page load from from 2+ minutes to nearly instant, with an incredibly responsive UI.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Added Docker Build Status Badge to shields.io</title>
-      <link>http://localhost:1313/projects/contributions/shields-docker/</link>
-      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
-      <guid>http://localhost:1313/projects/contributions/shields-docker/</guid>
-      <description>&lt;p&gt;Shields.io is a massive library of badges that can be inserted into project README&amp;rsquo;s or websites displaying various statuses (code coverage, health, version, etc).  Support for docker was missing the current build health, and was a pretty trivial addition.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Schema.org Structured Data documentation fixes</title>
-      <link>http://localhost:1313/projects/contributions/schema-org/</link>
-      <pubDate>Tue, 07 Jan 2020 17:08:21 +0000</pubDate>
-      <guid>http://localhost:1313/projects/contributions/schema-org/</guid>
-      <description>&lt;p&gt;While adding &lt;em&gt;Structured Data&lt;/em&gt; to a client&amp;rsquo;s website I found some example JSON that was invalid.  Simple contribution to cleanup the user documentation providing syntactically valid JSON documents.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/projects/contributions/golarion-map/</guid>
+      <description>&lt;p&gt;Paizo is a company that not only makes the tabletop RPG games of Pathfinder and Starfinder, but also writes a lot of material for the fictional worlds where these games take place. This map takes all the maps of the world of Golarion that Paizo has published and combines as many of them as possible into an interactive globe.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

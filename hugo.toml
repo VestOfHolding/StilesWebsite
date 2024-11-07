@@ -20,7 +20,7 @@ showContact = true
 showCertifications = true
 showSocializations = true
 # sections = ["skills","publications","creations","contributions","experience","education","blog"]
-sections = ["skills","experience","publications","education"]
+sections = ["skills","creations","contributions","publications","experience","education"]
 
 [params.google]
 

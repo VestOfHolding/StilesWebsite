@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GIS on Robert (Bobby) Stiles</title>
+    <link>http://localhost:1313/tags/gis/</link>
+    <description>Recent content in GIS on Robert (Bobby) Stiles</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/gis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interactive Map of Golarion</title>
+      <link>http://localhost:1313/projects/contributions/golarion-map/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/contributions/golarion-map/</guid>
+      <description>&lt;p&gt;Paizo is a company that not only makes the tabletop RPG games of Pathfinder and Starfinder, but also writes a lot of material for the fictional worlds where these games take place. This map takes all the maps of the world of Golarion that Paizo has published and combines as many of them as possible into an interactive globe.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

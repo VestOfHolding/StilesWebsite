@@ -37,150 +37,66 @@
       <description></description>
     </item>
     <item>
-      <title>Docker</title>
-      <link>http://localhost:1313/tags/docker/</link>
-      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
-      <guid>http://localhost:1313/tags/docker/</guid>
+      <title>Data Vizualization</title>
+      <link>http://localhost:1313/tags/data-vizualization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/data-vizualization/</guid>
       <description></description>
     </item>
     <item>
-      <title>Javascript</title>
-      <link>http://localhost:1313/tags/javascript/</link>
-      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
-      <guid>http://localhost:1313/tags/javascript/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>JSON</title>
-      <link>http://localhost:1313/tags/json/</link>
-      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
-      <guid>http://localhost:1313/tags/json/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Node.js</title>
-      <link>http://localhost:1313/tags/node.js/</link>
-      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
-      <guid>http://localhost:1313/tags/node.js/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>REST APIs</title>
-      <link>http://localhost:1313/tags/rest-apis/</link>
-      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
-      <guid>http://localhost:1313/tags/rest-apis/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Atlassian Ecosystem</title>
-      <link>http://localhost:1313/tags/atlassian-ecosystem/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      <guid>http://localhost:1313/tags/atlassian-ecosystem/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Bash/Shell</title>
-      <link>http://localhost:1313/tags/bash/shell/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      <guid>http://localhost:1313/tags/bash/shell/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>BOSH</title>
-      <link>http://localhost:1313/tags/bosh/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      <guid>http://localhost:1313/tags/bosh/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>DevOps</title>
-      <link>http://localhost:1313/tags/devops/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      <guid>http://localhost:1313/tags/devops/</guid>
+      <title>GIS</title>
+      <link>http://localhost:1313/tags/gis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/gis/</guid>
       <description></description>
     </item>
     <item>
       <title>Java</title>
       <link>http://localhost:1313/tags/java/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/java/</guid>
       <description></description>
     </item>
     <item>
-      <title>Monit</title>
-      <link>http://localhost:1313/tags/monit/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      <guid>http://localhost:1313/tags/monit/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Python</title>
-      <link>http://localhost:1313/tags/python/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      <guid>http://localhost:1313/tags/python/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Xml/Xslt</title>
-      <link>http://localhost:1313/tags/xml/xslt/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      <guid>http://localhost:1313/tags/xml/xslt/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Atlassian Developer Ecosystem</title>
-      <link>http://localhost:1313/tags/atlassian-developer-ecosystem/</link>
+      <title>JSON</title>
+      <link>http://localhost:1313/tags/json/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/atlassian-developer-ecosystem/</guid>
+      <guid>http://localhost:1313/tags/json/</guid>
       <description></description>
     </item>
     <item>
-      <title>Bamboo</title>
-      <link>http://localhost:1313/tags/bamboo/</link>
+      <title>Pokemon</title>
+      <link>http://localhost:1313/tags/pokemon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/bamboo/</guid>
+      <guid>http://localhost:1313/tags/pokemon/</guid>
       <description></description>
     </item>
     <item>
-      <title>Bitbucket</title>
-      <link>http://localhost:1313/tags/bitbucket/</link>
+      <title>QGIS</title>
+      <link>http://localhost:1313/tags/qgis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/bitbucket/</guid>
+      <guid>http://localhost:1313/tags/qgis/</guid>
       <description></description>
     </item>
     <item>
-      <title>Confluence</title>
-      <link>http://localhost:1313/tags/confluence/</link>
+      <title>R</title>
+      <link>http://localhost:1313/tags/r/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/confluence/</guid>
+      <guid>http://localhost:1313/tags/r/</guid>
       <description></description>
     </item>
     <item>
-      <title>JIRA</title>
-      <link>http://localhost:1313/tags/jira/</link>
+      <title>Research</title>
+      <link>http://localhost:1313/tags/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/jira/</guid>
+      <guid>http://localhost:1313/tags/research/</guid>
       <description></description>
     </item>
     <item>
-      <title>JQuery</title>
-      <link>http://localhost:1313/tags/jquery/</link>
+      <title>Weight Loss</title>
+      <link>http://localhost:1313/tags/weight-loss/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/jquery/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Maven</title>
-      <link>http://localhost:1313/tags/maven/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/maven/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Spring</title>
-      <link>http://localhost:1313/tags/spring/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/spring/</guid>
+      <guid>http://localhost:1313/tags/weight-loss/</guid>
       <description></description>
     </item>
   </channel>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on Robert (Bobby) Stiles</title>
+    <link>http://localhost:1313/tags/research/</link>
+    <description>Recent content in Research on Robert (Bobby) Stiles</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Study of Women&#39;s World Magazine</title>
+      <link>http://localhost:1313/projects/creations/womensworldstudy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/creations/womensworldstudy/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/WomansWorld.webp&#34; alt=&#34;Data Vizualization&#34; title=&#34;A Study of Women&#39;s World Magazine&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pokemon Type Spread</title>
+      <link>http://localhost:1313/projects/creations/pokemontypespread/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/creations/pokemontypespread/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/TypeBreakdowns.webp&#34; alt=&#34;Data Vizualization&#34; title=&#34;Pokemon Type Spread&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

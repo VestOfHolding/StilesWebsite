@@ -14,19 +14,15 @@
     <lastmod>2020-01-07T16:49:15+00:00</lastmod>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/projects/contributions/deploy-triggers/</loc>
+    <loc>http://localhost:1313/projects/contributions/golarion-map/</loc>
     <priority>0.8</priority>
   </url><url>
     <loc>http://localhost:1313/publications/draconiccharacteroptions/</loc>
     <lastmod>2023-02-18T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
-    <loc>http://localhost:1313/projects/contributions/shields-docker/</loc>
-    <lastmod>2020-01-07T17:09:26+00:00</lastmod>
-    <priority>0.8</priority>
-  </url><url>
-    <loc>http://localhost:1313/projects/contributions/schema-org/</loc>
-    <lastmod>2020-01-07T17:08:21+00:00</lastmod>
+    <loc>http://localhost:1313/publications/mythic2econversion/</loc>
+    <lastmod>2023-02-18T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
     <loc>http://localhost:1313/tags/book/</loc>
@@ -44,77 +40,37 @@
     <loc>http://localhost:1313/tags/ttrpg/</loc>
     <lastmod>2023-02-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/docker/</loc>
-    <lastmod>2020-01-07T17:09:26+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/javascript/</loc>
-    <lastmod>2020-01-07T17:09:26+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/json/</loc>
-    <lastmod>2020-01-07T17:09:26+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/node.js/</loc>
-    <lastmod>2020-01-07T17:09:26+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/projects/</loc>
-    <lastmod>2020-01-07T17:09:26+00:00</lastmod>
+    <lastmod>2020-01-07T16:49:15+00:00</lastmod>
     <priority>0.9</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/rest-apis/</loc>
-    <lastmod>2020-01-07T17:09:26+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/atlassian-ecosystem/</loc>
-    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/bash/shell/</loc>
-    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/bosh/</loc>
-    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects/creations/bosh-agents/</loc>
-    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/devops/</loc>
-    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/java/</loc>
-    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/monit/</loc>
-    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/python/</loc>
-    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/xml/xslt/</loc>
-    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2018-02-10T18:56:13-05:00</lastmod>
     <priority>1</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/atlassian-developer-ecosystem/</loc>
+    <loc>http://localhost:1313/projects/creations/womensworldstudy/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/creations/marketplace/</loc>
+    <loc>http://localhost:1313/tags/data-vizualization/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/bamboo/</loc>
+    <loc>http://localhost:1313/tags/gis/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/bitbucket/</loc>
+    <loc>http://localhost:1313/tags/java/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/confluence/</loc>
+    <loc>http://localhost:1313/tags/json/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/creations/docker-marketplace/</loc>
+    <loc>http://localhost:1313/tags/pokemon/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/jira/</loc>
+    <loc>http://localhost:1313/projects/creations/pokemontypespread/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/jquery/</loc>
+    <loc>http://localhost:1313/tags/qgis/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/maven/</loc>
+    <loc>http://localhost:1313/tags/r/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/research/</loc>
   </url><url>
     <loc>http://localhost:1313/search/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/spring/</loc>
+    <loc>http://localhost:1313/tags/weight-loss/</loc>
   </url>
 </urlset>
