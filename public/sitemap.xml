@@ -20,47 +20,65 @@
     <loc>http://localhost:1313/projects/contributions/pf2e-foundry/</loc>
     <priority>0.8</priority>
   </url><url>
+    <loc>http://localhost:1313/publications/mythic2econversion/</loc>
+    <lastmod>2023-10-09T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
     <loc>http://localhost:1313/publications/draconiccharacteroptions/</loc>
     <lastmod>2023-02-18T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
-    <loc>http://localhost:1313/publications/mythic2econversion/</loc>
-    <lastmod>2023-02-18T00:00:00+00:00</lastmod>
-    <priority>0.8</priority>
-  </url><url>
-    <loc>http://localhost:1313/projects/creations/womensworldstudy/</loc>
-    <lastmod>2024-09-01T15:00:28+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/data-vizualization/</loc>
-    <lastmod>2024-09-01T15:00:28+00:00</lastmod>
+    <lastmod>2024-10-12T15:00:28+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/pokemon/</loc>
+    <lastmod>2024-10-12T15:00:28+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/creations/pokemontypespread/</loc>
+    <lastmod>2024-10-12T15:00:28+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects/</loc>
-    <lastmod>2024-09-01T15:00:28+00:00</lastmod>
+    <lastmod>2024-10-12T15:00:28+00:00</lastmod>
     <priority>0.9</priority>
   </url><url>
     <loc>http://localhost:1313/tags/r/</loc>
-    <lastmod>2024-09-01T15:00:28+00:00</lastmod>
+    <lastmod>2024-10-12T15:00:28+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/research/</loc>
-    <lastmod>2024-09-01T15:00:28+00:00</lastmod>
+    <lastmod>2024-10-12T15:00:28+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-10-12T15:00:28+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/java/</loc>
+    <lastmod>2024-10-01T15:00:28+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/mario-party/</loc>
+    <lastmod>2024-10-01T15:00:28+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/creations/supermariopartydice/</loc>
+    <lastmod>2024-10-01T15:00:28+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/statistics/</loc>
+    <lastmod>2024-10-01T15:00:28+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/creations/womensworldstudy/</loc>
     <lastmod>2024-09-01T15:00:28+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/weight-loss/</loc>
     <lastmod>2024-09-01T15:00:28+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/book/</loc>
-    <lastmod>2023-02-18T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/pathfinder-2nd-edition/</loc>
-    <lastmod>2023-02-18T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/rpg/</loc>
-    <lastmod>2023-02-18T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/ttrpg/</loc>
-    <lastmod>2023-02-18T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2018-02-10T18:56:13-05:00</lastmod>
@@ -68,19 +86,11 @@
   </url><url>
     <loc>http://localhost:1313/tags/gis/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/java/</loc>
-  </url><url>
     <loc>http://localhost:1313/tags/javascript/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/json/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/mario-party/</loc>
-  </url><url>
     <loc>http://localhost:1313/tags/node.js/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/pokemon/</loc>
-  </url><url>
-    <loc>http://localhost:1313/projects/creations/pokemontypespread/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/python/</loc>
   </url><url>
@@ -88,10 +98,6 @@
   </url><url>
     <loc>http://localhost:1313/search/</loc>
     <priority>0.1</priority>
-  </url><url>
-    <loc>http://localhost:1313/projects/creations/supermariopartydice/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/statistics/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/typescript/</loc>
   </url>

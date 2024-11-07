@@ -1,6 +1,7 @@
 {
     "title":"Statistical Study of Super Mario Party Dice",
     "link":"https://github.com/VestOfHolding/SuperMarioPartyDice",
+    "date": "2024-10-01T15:00:28.528Z",
     "image":"/images/MarioPartyOutput.webp",
     "description":"A statistical study of how well different dice perform in the game Super Mario Party.",
     "tags":["Java", "Data Vizualization", "R", "Statistics", "Research", "Mario Party"],

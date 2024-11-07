@@ -6,11 +6,12 @@
     <description>Recent content in Mario Party on Robert (Bobby) Stiles</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 01 Oct 2024 15:00:28 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/mario-party/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Statistical Study of Super Mario Party Dice</title>
       <link>http://localhost:1313/projects/creations/supermariopartydice/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Oct 2024 15:00:28 +0000</pubDate>
       <guid>http://localhost:1313/projects/creations/supermariopartydice/</guid>
       <description>&lt;p&gt;In the game Super Mario Party, each character comes with a unique die to roll. This project is to reverse engineer the entire game in order to run billions of Monte Carlo simulations and determine which, if any, character dice perform better on each of the games&amp;rsquo; available boards.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/MarioPartyOutput.webp&#34; alt=&#34;Data Vizualization&#34; title=&#34;Mario Party Output&#34;&gt;&lt;/p&gt;</description>
     </item>
