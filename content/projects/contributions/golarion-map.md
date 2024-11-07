@@ -1,7 +1,7 @@
 ---
 title: "Interactive Map of Golarion"
 link: "https://github.com/pf-wikis/mapping"
-image: ""
+image: "/images/GolarionMap.webp"
 description: "An interactive map of the fictional world of Golarion."
 featured: true
 tags: ["GIS","QGIS","Java","JSON"]
