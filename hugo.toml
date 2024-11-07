@@ -16,11 +16,11 @@ lastName = "Stiles"
 phone = "1-503-913-4559"
 profileImage = "images/VestIcon.png"
 showQr = false
-showContact = true
+showContact = false
 showCertifications = true
 showSocializations = true
 # sections = ["skills","publications","creations","contributions","experience","education","blog"]
-sections = ["skills","creations","contributions","publications","experience","education"]
+sections = ["skills","experience","creations","contributions","publications","education"]
 
 [params.google]
 

@@ -14,5 +14,12 @@
       <guid>http://localhost:1313/projects/contributions/golarion-map/</guid>
       <description>&lt;p&gt;Paizo is a company that not only makes the tabletop RPG games of Pathfinder and Starfinder, but also writes a lot of material for the fictional worlds where these games take place. This map takes all the maps of the world of Golarion that Paizo has published and combines as many of them as possible into an interactive globe.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Pathfinder 2e for Foundry VTT</title>
+      <link>http://localhost:1313/projects/contributions/pf2e-foundry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/contributions/pf2e-foundry/</guid>
+      <description>&lt;p&gt;Made multiple ongoing contributions to the system module for Pathfinder 2nd Edition which enables players to play this game on Foundry VTT, a virtual tabletop software enabling users to play tabletop roleplaying games online.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

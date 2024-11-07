@@ -5,7 +5,7 @@ pubtype: "Book"
 featured: true
 description: "Walking the path of the dragon can grant you immense power, but true dragons come in many shapes and dispositions, so choose carefully. Some may ask for a cost you cannot pay, or don’t understand. Some may offer you sage advice on how to move forward, while yet others will obliterate you on the spot."
 tags: ["TTRPG","RPG","Pathfinder 2nd Edition","Book"]
-image: "https://www.pathfinderinfinite.com/images/5549/427416.jpg"
+image: "/images/DraconicCharacterOptions.webp"
 link: "https://www.pathfinderinfinite.com/product/427416/Draconic-Character-Options"
 fact: "3rd party content written and published by me for Pathfinder 2nd Edition"
 weight: 400

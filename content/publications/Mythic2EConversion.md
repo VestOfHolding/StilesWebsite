@@ -5,7 +5,7 @@ pubtype: "Book"
 featured: true
 description: "A new take on converting the Mythic subsystem from Pathfinder 1st edition to 2nd edition"
 tags: ["TTRPG","RPG","Pathfinder 2nd Edition","Book"]
-image: "https://www.pathfinderinfinite.com/images/5549/455957.jpg"
+image: "/images/MythicConversion.webp"
 link: "https://www.pathfinderinfinite.com/product/455957/Pathfinder-2E-Mythic-Conversion"
 fact: "3rd party content written and published by me for Pathfinder 2nd Edition"
 weight: 400

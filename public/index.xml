@@ -16,6 +16,13 @@
       <description>&lt;p&gt;Paizo is a company that not only makes the tabletop RPG games of Pathfinder and Starfinder, but also writes a lot of material for the fictional worlds where these games take place. This map takes all the maps of the world of Golarion that Paizo has published and combines as many of them as possible into an interactive globe.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Pathfinder 2e for Foundry VTT</title>
+      <link>http://localhost:1313/projects/contributions/pf2e-foundry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/contributions/pf2e-foundry/</guid>
+      <description>&lt;p&gt;Made multiple ongoing contributions to the system module for Pathfinder 2nd Edition which enables players to play this game on Foundry VTT, a virtual tabletop software enabling users to play tabletop roleplaying games online.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Draconic Character Options for Pathfinder 2nd Edition</title>
       <link>http://localhost:1313/publications/draconiccharacteroptions/</link>
       <pubDate>Sat, 18 Feb 2023 00:00:00 +0000</pubDate>
@@ -49,6 +56,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/search/</guid>
       <description>&lt;p&gt;This file exists solely to respond to /search URL with the related &lt;code&gt;search&lt;/code&gt; layout template.&lt;/p&gt;&#xA;&lt;p&gt;No content shown here is rendered, all content is based in the template layouts/page/search.html&lt;/p&gt;&#xA;&lt;p&gt;Setting a very low sitemap priority will tell search engines this is not important content.&lt;/p&gt;&#xA;&lt;p&gt;This implementation uses Fusejs, jquery and mark.js&lt;/p&gt;&#xA;&lt;h2 id=&#34;initial-setup&#34;&gt;Initial setup&lt;/h2&gt;&#xA;&lt;p&gt;Search  depends on additional output content type of JSON in config.toml&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;[outputs]&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  home = [&amp;#34;HTML&amp;#34;, &amp;#34;JSON&amp;#34;]&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;searching-additional-fileds&#34;&gt;Searching additional fileds&lt;/h2&gt;&#xA;&lt;p&gt;To search additional fields defined in front matter, you must add it in 2 places.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Statistical Study of Super Mario Party Dice</title>
+      <link>http://localhost:1313/projects/creations/supermariopartydice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/creations/supermariopartydice/</guid>
+      <description>&lt;p&gt;In the game Super Mario Party, each character comes with a unique die to roll. This project is to reverse engineer the entire game in order to run billions of Monte Carlo simulations and determine which, if any, character dice perform better on each of the games&amp;rsquo; available boards.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/MarioPartyOutput.webp&#34; alt=&#34;Data Vizualization&#34; title=&#34;Mario Party Output&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
