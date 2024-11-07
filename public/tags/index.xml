@@ -6,8 +6,36 @@
     <description>Recent content in Tags on Robert (Bobby) Stiles</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2024 15:00:28 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Vizualization</title>
+      <link>http://localhost:1313/tags/data-vizualization/</link>
+      <pubDate>Sun, 01 Sep 2024 15:00:28 +0000</pubDate>
+      <guid>http://localhost:1313/tags/data-vizualization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>R</title>
+      <link>http://localhost:1313/tags/r/</link>
+      <pubDate>Sun, 01 Sep 2024 15:00:28 +0000</pubDate>
+      <guid>http://localhost:1313/tags/r/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/tags/research/</link>
+      <pubDate>Sun, 01 Sep 2024 15:00:28 +0000</pubDate>
+      <guid>http://localhost:1313/tags/research/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Weight Loss</title>
+      <link>http://localhost:1313/tags/weight-loss/</link>
+      <pubDate>Sun, 01 Sep 2024 15:00:28 +0000</pubDate>
+      <guid>http://localhost:1313/tags/weight-loss/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Book</title>
       <link>http://localhost:1313/tags/book/</link>
@@ -34,13 +62,6 @@
       <link>http://localhost:1313/tags/ttrpg/</link>
       <pubDate>Sat, 18 Feb 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/ttrpg/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Data Vizualization</title>
-      <link>http://localhost:1313/tags/data-vizualization/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/data-vizualization/</guid>
       <description></description>
     </item>
     <item>
@@ -107,20 +128,6 @@
       <description></description>
     </item>
     <item>
-      <title>R</title>
-      <link>http://localhost:1313/tags/r/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/r/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Research</title>
-      <link>http://localhost:1313/tags/research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/research/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Statistics</title>
       <link>http://localhost:1313/tags/statistics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -132,13 +139,6 @@
       <link>http://localhost:1313/tags/typescript/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/typescript/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Weight Loss</title>
-      <link>http://localhost:1313/tags/weight-loss/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/weight-loss/</guid>
       <description></description>
     </item>
   </channel>
