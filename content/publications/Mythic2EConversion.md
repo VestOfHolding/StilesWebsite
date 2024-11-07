@@ -1,6 +1,6 @@
 ---
 title: "Pathfinder 2E Mythic Conversion"
-date: 2023-02-18
+date: 2023-10-09
 pubtype: "Book"
 featured: true
 description: "A new take on converting the Mythic subsystem from Pathfinder 1st edition to 2nd edition"
