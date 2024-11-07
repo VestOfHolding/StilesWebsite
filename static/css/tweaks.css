@@ -60,9 +60,9 @@ div.skills-heading{
 }
 
 .tag {
-  background: #eee;
+  background: #134611;
   border-radius: 3px 0 0 3px;
-  color: #999;
+  color: #F4F1F3;
   display: inline-block;
   height: 26px;
   line-height: 26px;
@@ -74,7 +74,7 @@ div.skills-heading{
 }
 
 .tag::before {
-  background: #fff;
+  background: #22222C;
   border-radius: 10px;
   box-shadow: inset 0 1px rgba(0, 0, 0, 0.25);
   content: '';
@@ -86,9 +86,9 @@ div.skills-heading{
 }
 
 .tag::after {
-  background: #fff;
+  background: #22222C;
   border-bottom: 13px solid transparent;
-  border-left: 10px solid #eee;
+  border-left: 10px solid #134611;
   border-top: 13px solid transparent;
   content: '';
   position: absolute;
@@ -97,12 +97,12 @@ div.skills-heading{
 }
 
 .tag:hover {
-  background-color: crimson;
+  background-color: #68A9AB;
   color: #F4F1F3;
 }
 
 .tag:hover::after {
-   border-left-color: crimson;
+   border-left-color: #68A9AB;
 }
 
 .project-fact{
