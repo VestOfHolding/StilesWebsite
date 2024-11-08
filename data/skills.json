@@ -27,6 +27,7 @@
     "skills": [
       { "name": "Spring", "icon": "coda" },
       { "name": "Hibernate", "icon": "database" },
+      "D3",
       "React"
     ]
   },
