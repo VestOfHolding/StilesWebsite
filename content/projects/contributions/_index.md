@@ -12,4 +12,4 @@ sitemap:
   weight: 0.5
 ---
 
-A collection of efforts to which I contributed, but did not create. Contributing back to Open Source projects is a strong passion of mine, and requires a considerate approach to learn norms, standards and approach for each community for a successful merge!
+A collection of efforts to which I contributed, but did not create. Always happy to help out with other projects when I see a need I can fill.
