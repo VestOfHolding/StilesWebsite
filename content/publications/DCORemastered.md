@@ -3,9 +3,7 @@ title: "Draconic Character Options Remastered for Pathfinder 2nd Edition"
 date: 2024-12-08
 pubtype: "Book"
 featured: true
-description: "This book update the options found in the original 'Draconic Character Options' to the remastered rules of Pathfinder 2nd Edition.
-
-Walking the path of the dragon can grant you immense power, but true dragons come in many shapes and dispositions, so choose carefully. Some may ask for a cost you cannot pay, or don’t understand. Some may offer you sage advice on how to move forward, while yet others will obliterate you on the spot."
+description: "This book update the options found in the original 'Draconic Character Options' to the remastered rules of Pathfinder 2nd Edition.\n\nWalking the path of the dragon can grant you immense power, but true dragons come in many shapes and dispositions, so choose carefully. Some may ask for a cost you cannot pay, or don’t understand. Some may offer you sage advice on how to move forward, while yet others will obliterate you on the spot."
 tags: ["TTRPG","RPG","Pathfinder 2nd Edition","Book"]
 image: "/images/DCORemastered.webp"
 link: "https://www.pathfinderinfinite.com/product/504995/Draconic-Character-Options-Remastered"
