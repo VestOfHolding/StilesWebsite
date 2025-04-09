@@ -6,6 +6,7 @@
       "Python",
       "Javascript",
       "SQL",
+      "Clojure"
       "R",
       "HTML5",
       "MATLAB",
@@ -17,6 +18,7 @@
     "grouping": "Databases",
     "skills": [
       "SQL",
+      { "name": "Datomic", "icon": "database" },
       { "name": "Solr", "icon": "database" },
       { "name": "Oracle", "icon": "database" }
       
@@ -26,7 +28,7 @@
     "grouping": "Frameworks",
     "skills": [
       { "name": "Spring", "icon": "coda" },
-      { "name": "Hibernate", "icon": "database" },
+      "Quarkus",
       "D3",
       "React"
     ]
