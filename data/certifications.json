@@ -8,7 +8,7 @@
 	{
 		"name":"Learn Javascript",
 		"description": "Learn Javascript from Boot.dev",
-		"badge":"images/bootdotdev_javascript_logo.jpg",
+		"badge":"images/bootdotdev_js_logo.jpg",
 		"proof":"https://www.boot.dev/certificate/vestofholding/2af5c197-21eb-48b4-bd90-b0d59adb311e"
 	},
 	{
@@ -20,7 +20,7 @@
 	{
 		"name":"Learn Shells and Terminals",
 		"description": "Learn Shells and Terminals from Boot.dev",
-		"badge":"images/bootdotdev_termianl_logo.jpg",
+		"badge":"images/bootdotdev_terminal_logo.jpg",
 		"proof":"https://www.boot.dev/certificate/vestofholding/bc7a07ef-ab87-42ab-80de-e7261f2c58a0"
 	}
 ]
