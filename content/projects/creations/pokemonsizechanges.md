@@ -9,6 +9,14 @@
     "featured": false
 }
 
+- [The Data](#the-data)
+    - [Weight](#weight)
+    - [Height vs Length](#height-vs-length)
+    - [BMI](#bmi)
+- [Top Size Increases](#top-size-increases)
+- [Top Size Decreases](#top-size-decreases)
+    - [Wailord Math](#wailord-math)
+
 This project analyzes the most extreme size changes that Pokemon undergo when they evolve, with the main visualizations created in R.
 
 Because this project looked at these size changes as a percentage difference, the most noticable result is that the evolutions lines of the game mascots of Pokemon Sun & Moon dominate the results. 
