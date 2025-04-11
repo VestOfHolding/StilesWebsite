@@ -92,8 +92,10 @@ The answer is: It honestly might. Plenty of our estimates put Wailord's density 
 
 But...wait...I brought up the fact that Wailord would shoot out of the water at high speeds. But what would that speed be?
 
-According to the equation for buoyant force combined with Wailord's weight down leads to the conclusion that Wailord would experience over 2.5 million Newtons of force upwards. Toss that into Newton's 2nd Law and we get an acceleration of about 6350 m/s^2.
+According to the equation for buoyant force combined with Wailord's weight down leads to the conclusion that Wailord would experience over 2.5 million Newtons of force upwards. Toss that into Newton's 2nd Law and we get an acceleration of about 6350 m/s^2 if Wailord were to just appear somewhere underwater.
 
 We may as well stop there, because needless to say, any creature suddenly experiencing 635 g's of force is in for a very bad time. Dare I say, liquification.
 
-And so ends the tale of Wailord as a species. With just the most...digusting rain you've ever seen.
+Some quick kinematics says that this results in ejecting out of the water at hundreds of meters per second. Yes, drag forces and needing to push the water out of the way probably slows this down a lot, but ain't nobody got time for fluid dynamics, lol.
+
+So if you find yourself starting a Pokemon battle underwater and sending out your Wailord, prepare for a sudden Aqua Jet and just... the worst kind of rain, lol.
