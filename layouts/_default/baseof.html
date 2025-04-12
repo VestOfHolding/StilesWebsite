@@ -5,7 +5,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <title>{{ .Site.Title }} | {{ .Title }}</title>
   <meta name="description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{else}}{{ .Description }}{{ end }}">
-
+  {{ if .Param "math" }}
+    {{ partialCached "math.html" . }}
+  {{ end }}
+  
   {{ $preview_image := .Resources.GetMatch "site_preview" }}
   {{if $preview_image }}
     <meta property="og:image" content="{{ $preview_image.Permalink }}" />

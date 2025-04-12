@@ -8,32 +8,45 @@ PygmentsStyle = "monokai"
 enableGitInfo = false
 
 [params]
-address = "Portland, OR"
-email = "bstiles2190@gmail.com"
-favicon = "/favicon.ico"
-firstName = "Bobby"
-lastName = "Stiles"
-phone = "1-503-913-4559"
-profileImage = "images/VestIcon.png"
-showQr = false
-showContact = false
-showCertifications = true
-showSocializations = true
-# sections = ["skills","publications","creations","contributions","experience","education","blog"]
-sections = ["skills","experience","creations","contributions","publications","education"]
+  math = true
+  address = "Portland, OR"
+  email = "bstiles2190@gmail.com"
+  favicon = "/favicon.ico"
+  firstName = "Bobby"
+  lastName = "Stiles"
+  phone = "1-503-913-4559"
+  profileImage = "images/VestIcon.png"
+  showQr = false
+  showContact = false
+  showCertifications = true
+  showSocializations = true
+  # sections = ["blog"]
+  sections = ["skills","experience","creations","contributions","publications","education"]
 
 [params.google]
 
 [[params.handles]]
-link = "https://www.linkedin.com/in/robertestiles/"
-name = "LinkedIn"
+  link = "https://www.linkedin.com/in/robertestiles/"
+  name = "LinkedIn"
 
 [[params.handles]]
-link = "https://github.com/VestOfHolding"
-name = "GitHub"
+  link = "https://github.com/VestOfHolding"
+  name = "GitHub"
 
 [outputs]
-home = ["HTML", "JSON"]
+  home = ["HTML", "JSON"]
 
 [taxonomies]
-tag = "tags"
+  tag = "tags"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.extras]
+        [markup.goldmark.extensions.extras.mark]
+          enable = true
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['@@', '@@']]
+          inline = [['@', '@']]
