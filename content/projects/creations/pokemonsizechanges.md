@@ -81,12 +81,12 @@ Let's take this side-view of a 3D model of Wailord I have able to find on Sketch
 
 If we further crop the image doesn to where the vast majority of its bulk is (aka removing the tall tail section), we get an image that's about 760x285. Doing some quick math gives us an estimate of about 5.4-5.5 meters for the height of its main body. We follow this logic again for a front view, and we get a depth of a little over 6.2 meters.
 
-Some more back-of-the-envelope estimatation later, and we get a density of between 1-2 kg/m^3 for Wailord. Really it's on the lower end of that, but if we fudge the numbers as favorable as possible, 2 is the best we can do.
+Some more back-of-the-envelope estimatation later, and we get a density of between 1-2 @\frac{kg}{m^{3}}@ for Wailord. Really it's on the lower end of that, but if we fudge the numbers as favorable as possible, 2 @\frac{kg}{m^{3}}@ is the best we can do.
 
-In order to successfully swim, real world whales have evolved to be close to the density of water, which is, unfortunately for Wailord, nearly 1000x larger at 1000 kg/m^3. At our most generous estimates, Wailord would be 
+In order to successfully swim, real world whales have evolved to be close to the density of water, which is, unfortunately for Wailord, nearly 1000x larger at 1000 @\frac{kg}{m^{3}}@. At our most generous estimates, Wailord would be 
 shot out of the water with such force that it's actually more relevant to talk about whether or not it would float in the air itself.
 
-The answer is: It honestly might. Plenty of our estimates put Wailord's density below the density of air at 1.2. So Wailord isn't a whale. It's a blimp.
+The answer is: It honestly might. Plenty of our estimates put Wailord's density below the density of air at 1.2 @\frac{kg}{m^{3}}@. So Wailord isn't a whale. It's a blimp.
 
 ### We're Not Done
 
