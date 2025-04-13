@@ -16,6 +16,7 @@
 - [Top Size Increases](#top-size-increases)
 - [Top Size Decreases](#top-size-decreases)
     - [Wailord Math](#wailord-math)
+- [Infographic](#infographic)
 
 This project analyzes the most extreme size changes that Pokemon undergo when they evolve, with the main visualizations created in R.
 
@@ -44,7 +45,7 @@ Ok, yes, on the surface this one seems odd. Why try and track a Pokemon's BMI? A
 ## Top Size Increases
 
 ![Weight Increases](/images/pokemon_sizes/weight_increases.webp "Top Weight Increases on Pokemon Evolution")
-{width=550}
+{width=1000}
 
 While every one of these graphs are going to have surprising results, there are two that catch my attention the most on this graph. 
 
@@ -53,29 +54,29 @@ The first is the gaseous ghost Pokemon, Haunter, apparently becoming somewhat co
 The second is how apparently both versions of Diglett do much more than triple in weight when evolving into Dugtrio, which makes me wonder what on earth is going on beneath the surface.
 
 ![Height Increases](/images/pokemon_sizes/height_increases.webp "Top Height Increases on Pokemon Evolution")
-{width=550}
+{width=1000}
 
 If anything I'm just surprised Magikarp isn't higher on this list, which makes me start questioning how tiny other Pokemon like Natu are, lol.
 
 ![BMI Increases](/images/pokemon_sizes/bmi_increases.webp "Top BMI Increases on Pokemon Evolution")
-{width=550}
+{width=1000}
 
 I am really glad I did this because of the pretty different Pokemon lineup we're seeing. It makes sense to see evolutions like Dragonair to Dragonite pop up, and interesting to see who comes along with them.
 
 ## Top Size Decreases
 
 ![Weight Decreases](/images/pokemon_sizes/weight_decreases.webp "Top Weight Decreases on Pokemon Evolution")
-{width=550}
+{width=1000}
 
 I'm surprised by a lot of these. I'm not as familiar with the new generation, but it looks suspiciously like the new ghost-dog does a reverse Gengar by dying and becoming more of a spirit? Well then, lol. Also funny to see that Kadabra has some thicc cake that Alakazam loses, while Grimer apparently becomes less dense when it evolves? Maybe some new pockets of toxic gas?
 
 ![Height Decreases](/images/pokemon_sizes/height_decreases.webp "Top Height Decreases on Pokemon Evolution")
-{width=550}
+{width=1000}
 
 I didn't realize Bellossom is so much shorter than Gloom, and I could've sworn Gengar was taller than Haunter, but I guess not. Though more surprising is just how many Pokemon don't grow at all on evolution.
 
 ![BMI Decreases](/images/pokemon_sizes/bmi_decreases.webp "Top BMI Decreases on Pokemon Evolution")
-{width=550}
+{width=1000}
 
 Wow, was not expecting so many Pokemon to be over 80% on this graph. However, the one that creates probably the most questions is Wailord.
 
@@ -84,7 +85,7 @@ Wow, was not expecting so many Pokemon to be over 80% on this graph. However, th
 Let's take this side-view of a 3D model of Wailord I have able to find on Sketchfab:
 
 ![Wailord Side View](/images/pokemon_sizes/wailord.png "Side view of a 3D model of Wailord")
-{width=550}
+{width=600}
 
 If we further crop the image doesn to where the vast majority of its bulk is (aka removing the tall tail section), we get an image that's about 760x285. Doing some quick math gives us an estimate of about 5.4-5.5 meters for the height of its main body. We follow this logic again for a front view, and we get a depth of a little over 6.2 meters.
 
@@ -106,3 +107,10 @@ We may as well stop there, because needless to say, any creature suddenly experi
 Some quick kinematics says that this results in ejecting out of the water at hundreds of meters per second. Yes, drag forces and needing to push the water out of the way probably slows this down a lot, but that is beyond my expertise.
 
 So if you find yourself starting a Pokemon battle underwater and sending out your Wailord, prepare for a sudden Aqua Jet and just... the worst kind of rain, lol.
+
+## Infographic
+
+![Size Increases](/images/pokemon_sizes/SizeIncreases.webp "Top Size Increases on Pokemon Evolution")
+{width=500} 
+![Size Decreases](/images/pokemon_sizes/SizeDecreases.webp "Top Size Decreases on Pokemon Evolution")
+{width=500}
