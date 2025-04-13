@@ -42,6 +42,8 @@ enableGitInfo = false
 [markup]
   [markup.goldmark]
     [markup.goldmark.extensions]
+      [markup.goldmark.parser]
+        wrapStandAloneImageWithinParagraph = false
       [markup.goldmark.extensions.extras]
         [markup.goldmark.extensions.extras.mark]
           enable = true
