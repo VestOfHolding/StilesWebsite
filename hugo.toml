@@ -42,11 +42,17 @@ enableGitInfo = false
 [markup]
   [markup.goldmark]
     [markup.goldmark.extensions]
+      [markup.goldmark.parser.attribute]
+        block = true
+        title = true
+
       [markup.goldmark.parser]
         wrapStandAloneImageWithinParagraph = false
+
       [markup.goldmark.extensions.extras]
         [markup.goldmark.extensions.extras.mark]
           enable = true
+          
       [markup.goldmark.extensions.passthrough]
         enable = true
         [markup.goldmark.extensions.passthrough.delimiters]
