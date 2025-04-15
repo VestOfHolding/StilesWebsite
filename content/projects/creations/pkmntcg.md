@@ -48,6 +48,8 @@ Pokemon cards come in groups called sets. Generally 3-5 sets are released per ye
 
 This is pretty straight-forward. Each Pokemon has an HP stat and these values are averaged as described in [Methodology](#methodology). What surprises me about this data is that, other than the 1 prize card specials that are noticably varied, our other subtypes are very cleanly delinated in their HP values.
 
+It's interesting that apparently all Baby Pokemon cards have 30 HP.
+
 ## Attack Damage Power Creep
 
 ![Attack Power Creep](/images/pkmn_tcg/atk_creep.webp "Attack Power Creep")
@@ -58,6 +60,9 @@ This one gets more complicated. Average damage per card was calculated, then ave
 Many of the effects outside of raw damage were not calculated, but I did enough that the graph was no longer moving between each iteration. The secondary effects I did calculate are: Doing additional or multiplied damage based on coin flips, and doing additional or multiplied damage if some condition is true (assumed the player fulfills the condition once for these attacks). I did not include recoil damage or damage dealt to bench Pokemon.
 
 Because of all this, just the damage an attack does to the main opposing card isn't the whole story, but I believe I got enough of the data that this is a valuable graph still.
+
+If you're curious what those two huge spikes in the 2 prize special cards are: In 2010, the first HGSS set released, and it looks like there are only four 2 prize cards, and they have attacks that either do 100 or 200 damage, leading to the average of 150. In May 2014, the XY Flashfire set released that includes a handful of Mega cards that had very powerful damage, though they did have some drawbacks such as recoil damage or discarding cards.
+
 
 ## Infographic
 
