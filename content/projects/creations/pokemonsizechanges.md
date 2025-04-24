@@ -2,7 +2,7 @@
     "title":"Most Extreme Size Changes When Pokemon Evolve",
     "link":"",
     "date": "2025-02-05T15:00:28.528Z",
-    "image":"/images/pokemon_sizes/SizeChangeThumbnail.webp",
+    "image":"/images/pkmn_sizes/SizeChangeThumbnail.webp",
     "description":"Showcasing the most extreme height/weight changes when Pokemon evolve.",
     "tags":["Data Vizualization", "R", "Research", "Pokemon"],
     "fact":"Showcasing the most extreme height/weight changes when Pokemon evolve.",
