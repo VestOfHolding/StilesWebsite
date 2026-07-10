@@ -44,7 +44,7 @@ Pokemon cards come in groups called sets. Generally 3-5 sets are released per ye
 ## HP Power Creep
 
 ![HP Power Creep](/images/pkmn_tcg/hp_creep.webp "HP Power Creep")
-{width=1000}
+{width="1000"}
 
 This is pretty straight-forward. Each Pokemon has an HP stat and these values are averaged as described in [Methodology](#methodology). What surprises me about this data is that, other than the 1 prize card specials that are noticably varied, our other subtypes are very cleanly delinated in their HP values.
 
@@ -53,7 +53,7 @@ It's interesting that apparently all Baby Pokemon cards have 30 HP.
 ## Attack Damage Power Creep
 
 ![Attack Power Creep](/images/pkmn_tcg/atk_creep.webp "Attack Power Creep")
-{width=1000}
+{width="1000"}
 
 This one gets more complicated. Average damage per card was calculated, then average across each set like the HP.  Though any attack that deals 0 listed damage was ignored.
 
@@ -67,7 +67,7 @@ If you're curious what those two huge spikes in the 2 prize special cards are: I
 ## Infographic
 
 ![TCG Power Creep](/images/pkmn_tcg/power_creep.webp "TCG Power Creep")
-{width=500} 
+{width="500"} 
 
 ## Vega Lite Code
 
