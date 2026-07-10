@@ -1,0 +1,11 @@
+{
+  "name": "stiles-website",
+  "version": "1.0.0",
+  "description": "Interactive visualizations for robertstiles.dev, bundled through Hugo's js.Build.",
+  "private": true,
+  "dependencies": {
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "recharts": "^3.9.2"
+  }
+}
