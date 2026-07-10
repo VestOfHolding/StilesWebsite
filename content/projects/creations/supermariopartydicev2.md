@@ -1,5 +1,5 @@
 {
-    "title":"Super Mario Party Dice, Revisited (V2)",
+    "title":"Super Mario Party Dice, Revisited",
     "link":"https://github.com/VestOfHolding/SuperMarioPartyDice",
     "date": "2026-07-10T15:00:28.528Z",
     "image":"/images/MarioPartyOutput.webp",
