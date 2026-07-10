@@ -1,0 +1,4 @@
+{{- $opts := dict "minify" true "target" "es2018" "format" "iife" -}}
+{{- $bundle := resources.Get "js/smp/index.jsx" | js.Build $opts -}}
+<div id="smp-dice-viz"></div>
+<script src="{{ $bundle.RelPermalink }}"></script>
