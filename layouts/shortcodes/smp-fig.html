@@ -1,0 +1,10 @@
+{{- $name := .Get "name" -}}
+{{- $board := .Get "board" -}}
+{{- $metric := .Get "metric" -}}
+{{- $emit := not (.Page.Store.Get "smpBundleEmitted") -}}
+{{- .Page.Store.Set "smpBundleEmitted" true -}}
+<div class="smp-fig" data-fig="{{ $name }}"{{ with $board }} data-board="{{ . }}"{{ end }}{{ with $metric }} data-metric="{{ . }}"{{ end }}></div>
+{{- if $emit -}}
+{{- $bundle := resources.Get "js/smp/index.jsx" | js.Build (dict "minify" true "target" "es2018" "format" "iife") -}}
+<script defer src="{{ $bundle.RelPermalink }}"></script>
+{{- end -}}

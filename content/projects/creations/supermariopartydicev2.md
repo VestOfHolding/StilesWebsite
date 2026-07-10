@@ -12,4 +12,7 @@
 This page is scaffolding for the V2 write-up. The interactive prototype below proves the
 React-island pipeline; real data and the step-by-step narrative come next.
 
-{{< smp-viz >}}
+  {{< smp-fig name="board-explorer" board="WDR" metric="distance" >}}
+  {{< smp-fig name="board-scatter" board="MFP" metric="distance" >}}
+  {{< smp-fig name="normal-dice-rank" >}}
+

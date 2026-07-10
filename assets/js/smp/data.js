@@ -15,6 +15,15 @@ export const METRICS = [
   { id: "star", label: "Average stars" },
 ];
 
+// Fixed axis domains — global min/max across ALL boards, so switching board never
+// moves an axis. X uses DOMAINS[metric]; Y (place) always uses DOMAINS.place.
+export const DOMAINS = {
+  distance: [58.9, 122.7],
+  coin: [28.9, 94.4],
+  star: [1.436, 7.401],
+  place: [1.987, 3.059],
+};
+
 export const DICE = {
   WDR: [
     { die: "Boo", distance: 99.84, coin: 51.89, star: 2.859, place: 2.659 },
