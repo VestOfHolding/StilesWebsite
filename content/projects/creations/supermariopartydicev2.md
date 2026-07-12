@@ -9,9 +9,11 @@
     "featured": false
 }
 
-### The Code
+### What Is This?
 
 [Source code and raw simulation outputs.](https://github.com/VestOfHolding/SuperMarioPartyDice)
+
+The link above also contains a write-up of what this project is, but the short version is that I want to try and use math to find if there are tier lists we can make for the characters in the video game, Super Mario Party, and if those tier lists change from board to board.
 
 ### What's Changed
 
@@ -21,7 +23,7 @@ Today, I have used this project as my first project where I truly tested how wel
 
 ### The New State of the Simulations
 
-Let's at least attempt to have math back up how many simulations we should expect to need. To do that, let's look at the equation for standard error, or the amount of variability we would expect to see in a certain data set.
+Let's at least attempt to have math back up how many simulations we should expect to need. To do that, let's look at the equation for standard error, or how much we should expect the averages of our results to shift from run to run.
 
 @@ \text{SE} = \frac{\sigma}{\sqrt{n}} @@
 
@@ -36,6 +38,4 @@ Getting the variability of the data down to the fourth decimal place is very rea
 With all of the bugs that Claude helped me find, this is also now true in practice. Doing two full runs for all characters gives us data that falls within that expected range, which you can see in the output files in the Github repo linked above.
 
   {{< smp-fig name="board-explorer" board="WDR" metric="distance" >}}
-  {{< smp-fig name="board-scatter" board="MFP" metric="distance" >}}
-  {{< smp-fig name="normal-dice-rank" >}}
 
