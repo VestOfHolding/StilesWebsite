@@ -37,5 +37,9 @@ Getting the variability of the data down to the fourth decimal place is very rea
 
 With all of the bugs that Claude helped me find, this is also now true in practice. Doing two full runs for all characters gives us data that falls within that expected range, which you can see in the output files in the Github repo linked above.
 
+### The Game Boards
+
+  {{< smp-fig name="correlation-matrix" >}}
+
   {{< smp-fig name="board-explorer" board="WDR" metric="distance" >}}
 
