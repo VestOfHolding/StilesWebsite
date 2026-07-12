@@ -25,7 +25,7 @@ Let's at least attempt to have math back up how many simulations we should expec
 
 @@ \text{SE} = \frac{\sigma}{\sqrt{n}} @@
 
-@\sigma@ is the standard deviation of the data, and @\n@ is the size of the population of the data. Because it's in a square root, that means multiplying the number of simulations by 1,000 only divides the standard error of the data by about 32.
+@\sigma@ is the standard deviation of the data, and "n" is the size of the population of the data. Because it's in a square root, that means multiplying the number of simulations by 1,000 only divides the standard error of the data by about 32.
 
 While this isn't the only measure, let's take the possible final place of the player in a given game as an example: The player can end up in 1st through 4th place. The standard deviation for those four values is about 1.1. At 5 million simulations, we get:
 
