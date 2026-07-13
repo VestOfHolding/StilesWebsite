@@ -15,6 +15,8 @@
 
 The link above also contains a write-up of what this project is, but the short version is that I want to try and use math to find if there are tier lists we can make for the characters in the video game, Super Mario Party, and if those tier lists change from board to board.
 
+The major thing to note is that we are currently studying how the character dice perform on their own, while in normal gameplay players can choose on every turn whether they use the character die or a normal six-sided die.
+
 ### What's Changed
 
 Previously, I believed that tens of billions of simulations was necessary due to the high number of possible board states that are possible. Even if the number of board states is not the true number I should be chasing, it always seemed like the numbers were slightly in flux. Though I never really did a mathematical test to prove what number of simulations was necessary.
@@ -39,7 +41,25 @@ With all of the bugs that Claude helped me find, this is also now true in practi
 
 ### The Game Boards
 
+The four boards that players can play on are: [Whomp's Domino Ruins](https://www.mariowiki.com/Whomp%27s_Domino_Ruins) (WDR), [King Bob-omb's Powderkeg Mines](https://www.mariowiki.com/King_Bob-omb%27s_Powderkeg_Mine) (KBPM), [Megafruit Paradise](https://www.mariowiki.com/Megafruit_Paradise) (MFP), and [Kamek's Tantelizing Tower](https://www.mariowiki.com/Kamek%27s_Tantalizing_Tower) (KTT). What we need to know is if the different boards change which dice are good.
+
+When we look at our outputs, once of the first general questions we can answer is if certain strategies, such as getting more coins or trying to roll the highest numbers on the die, actually correlate to getting the highest placement at the end of the game. Before we get to that, it's worth noting that when we talk about coins, we're talking specifically about coins gained in the board, not any minigame coins. This correlates with the number of coins used for the coin bonus star.
+
+So, across the 21 possible dice (20 characters plus the normal d6 as a control), what correlations arise?
+
   {{< smp-fig name="correlation-matrix" >}}
+
+The correlation value, "r", is basically what it says on the tin: How strongly do the two variables correlate with each other, and in which direction (positive or negative)? The p-values in the second table are admittedly a more precise way of saying the same thing, but removes direction. It's still helpful to see both to really prove the results.
+
+**For the mathier folks**: The r-value was gained using the "CORREL" function in Excel which uses a Pearson correlation, and the p-value uses the "T.DIST.2T" function. Both looked to me like they work fine for this project.
+
+To the actual results:
+
+**Whomp's Domino Ruins** emerges as the clear distance board. The board seems to supply just enough coins that the player should focus on rolling the highest numbers they can to get to the stars the fastest, and you'll be able to buy them. At least compared to the dice that favor gaining more coins over going the furthest. Given that these simulations reward minigame coins randomly in order to remove player skill, I have to imagine that a good minigame player can focus that much more on just maximizing their die rolls.
+
+**King Bob-omb's Powderkeg Mine** is the board that makes the most intuitive sense to me where you have to balance distance and coins, and getting both will get you the win, though coins determine the winner more often.
+
+**Megafruit Paradise** is the strange one in multiple ways. Although the Stars & Place column is just a sanity checking column, and the correlation is still strong, the number is noticably lower than the other boards. Looking into the raw outputs, it looks like this board is noticably star-starved in the results, so it's more often that the place is determined by tie-breakers. In addition, we have our only negative correlation in the game: Maximizing distance actually decreases the average number of coins you'll get, but you'll still get stars. The problem is you still need to make sure to get coins because of how often coins will determine who wins in tie-breakers.
 
   {{< smp-fig name="board-explorer" board="WDR" metric="distance" >}}
 
