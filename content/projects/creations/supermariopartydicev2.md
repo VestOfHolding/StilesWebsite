@@ -55,13 +55,33 @@ The correlation value, "r", is basically what it says on the tin: How strongly d
 
 To the actual results:
 
-**Whomp's Domino Ruins** emerges as the clear distance board. The board seems to supply just enough coins that the player should focus on rolling the highest numbers they can to get to the stars the fastest, and you'll be able to buy them. At least compared to the dice that favor gaining more coins over going the furthest. Given that these simulations reward minigame coins randomly in order to remove player skill, I have to imagine that a good minigame player can focus that much more on just maximizing their die rolls.
+**Whomp's Domino Ruins** emerges as the clear distance board. The board seems to supply just enough coins that the player should focus on rolling the highest numbers they can to get to the stars the fastest, and you'll be able to buy them. At least compared to the dice that favor gaining more coins over going the furthest. Donkey Kong reigns supreme here. 
 
-**King Bob-omb's Powderkeg Mine** is the board that makes the most intuitive sense to me where you have to balance distance and coins, and getting both will get you the win, though coins determine the winner more often.
+Given that these simulations reward minigame coins randomly in order to remove player skill, I have to imagine that a good minigame player can focus that much more on just maximizing their die rolls.
 
-**Megafruit Paradise** is the strange one in multiple ways. Although the Stars & Place column is just a sanity checking column, and the correlation is still strong, the number is noticably lower than the other boards. Looking into the raw outputs, it looks like this board is noticably star-starved in the results, so it's more often that the place is determined by tie-breakers. In addition, we have our only significant negative correlation in the game: Maximizing distance actually decreases the average number of coins you'll get, but you'll still get stars. The problem is you still need to make sure to get coins because of how often coins will determine who wins in tie-breakers.
+**King Bob-omb's Powderkeg Mine** is the board that makes the most intuitive sense to me where you have to balance distance and coins, and getting both will get you the win, though coins determine the winner more often. Hammer Bro ends up being the character that is best able to thread that needle.
 
-**Kamek's Tantalizing Tower** is a fascinating one to me, because instinctually I would assume that distance would be king on this board, since you want to make it up to the star at the end of the path as much as possible would get you the most stars. However, the correlation results show that patience is required. It's better to take your time to make sure you have more coins to buy more than one star at a time no matter the price (since you can buy more than one star at once on this board), which makes sense in hindsight since each loop takes a noticable number of turns.
+**Megafruit Paradise** is the strange one in multiple ways. Although the Stars & Place column is just a sanity checking column, and the correlation is still strong, the number is noticably lower than the other boards. Looking into the raw outputs, it looks like this board is noticably star-starved in the results, so it's more often that the place is determined by tie-breakers. In addition, we have our only significant negative correlation in the game: Maximizing distance actually decreases the average number of coins you'll get, but you'll still get stars. The problem is you still need to make sure to get coins because of how often coins will determine who wins in tie-breakers. We see this in the results where high distance characters such as Donkey Kong and Bowser are in the bottom tiers for this board.
+
+**Kamek's Tantalizing Tower** is a fascinating one to me, because instinctually I would assume that distance would be king on this board, since you want to make it up to the star at the end of the path as much as possible would get you the most stars. However, the correlation results show that patience is required. It's better to take your time to make sure you have more coins to buy more than one star at a time no matter the price (since you can buy more than one star at once on this board), which makes sense in hindsight since each loop takes a noticable number of turns. Daisy and Mario are the top two characters that are best able to strike that balance.
+
+### The Characters
+
+While the above gives us the general ideas of what types of characters are going to succeed or fail more at different boards, it's time to look at the exact results, with the normal d6 as a control:
+
+  {{< smp-fig name="real-tiers" >}}
+
+If there is a TL;DR to be had in this post, this image is it. This is the ultimate answer to which characters you should pick on each board, but there's still more to this story to tell.
+
+One big component to this game is the ally system. Land on the right spot, and you'll gain an ally, up to a maximum of 4, that will give you a 0-2 bonus each to your die rolls. In the long run this can have a dramatic effect on how each character performs.
+
+To test how strong this effect is, I compared the above results to a more "normalized" result set and analyzed the difference. Specifically, in the real results the rates that different characters end up with different ally counts by the end of the game can obviously vary, such as on WDR, Wario will end the game with 1 ally roughly 23% of the time while that will happen to Bowser Jr roughly 31% of the time. So what if we adjust those frequencies to pretend that all characters gain the same number of allies at the same frequencies per board? Looking at the difference between those two sets of data can tell us how strongly allies affect different characters' performance.
+
+  {{< smp-fig name="ally-effect" >}}
+
+The story this graph tells is simple: The larger the orange bar, the more important it is that you gain allies in order to achieve the results seen in the previous graph. The larger the blue bar, the more you want to avoid gaining allies as much as possible and you will do better than others might expect.
+
+As a bonus, you can use the below graph to look at more of the granular results:
 
   {{< smp-fig name="board-explorer" board="WDR" metric="distance" >}}
 
