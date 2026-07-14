@@ -4,7 +4,7 @@
     "date": "2026-07-10T15:00:28.528Z",
     "image":"/images/MarioPartyOutput.webp",
     "description":"A deeper, interactive re-analysis of Super Mario Party dice across four boards, with correlation and significance testing.",
-    "tags":["Java", "Data Vizualization", "Statistics", "Monte Carlo", "React", "Research", "Mario Party"],
+    "tags":["Java", "Data Vizualization", "Statistics", "Monte Carlo", "React", "Research", "Mario Party", "Claude"],
     "fact":"A deeper, interactive re-analysis of which Super Mario Party dice perform best, board by board.",
     "featured": true
 }
