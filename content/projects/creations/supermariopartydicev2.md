@@ -6,7 +6,7 @@
     "description":"A deeper, interactive re-analysis of Super Mario Party dice across four boards, with correlation and significance testing.",
     "tags":["Java", "Data Vizualization", "Statistics", "Monte Carlo", "React", "Research", "Mario Party"],
     "fact":"A deeper, interactive re-analysis of which Super Mario Party dice perform best, board by board.",
-    "featured": false
+    "featured": true
 }
 
 ### What Is This?

@@ -6,6 +6,6 @@
 {{- .Page.Store.Set "smpBundleEmitted" true -}}
 <div class="smp-fig" data-fig="{{ $name }}"{{ with $board }} data-board="{{ . }}"{{ end }}{{ with $metric }} data-metric="{{ . }}"{{ end }} style="width:100%;max-width:{{ $width }}px"></div>
 {{- if $emit -}}
-{{- $bundle := resources.Get "js/smp/index.jsx" | js.Build (dict "minify" true "target" "es2018" "format" "iife") -}}
+{{- $bundle := resources.Get "js/smp/index.jsx" | js.Build (dict "minify" true "target" "es2018" "format" "iife") | fingerprint -}}
 <script defer src="{{ $bundle.RelPermalink }}"></script>
 {{- end -}}
