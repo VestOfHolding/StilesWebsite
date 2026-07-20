@@ -1,0 +1,9 @@
+{{- $name := .Get "name" -}}
+{{- $width := .Get "width" | default "760" -}}
+{{- $emit := not (.Page.Store.Get "timelineBundleEmitted") -}}
+{{- .Page.Store.Set "timelineBundleEmitted" true -}}
+<div class="timeline-fig" data-fig="{{ $name }}" style="width:100%;max-width:{{ $width }}px"></div>
+{{- if $emit -}}
+{{- $bundle := resources.Get "js/timeline/index.jsx" | js.Build (dict "minify" true "target" "es2018" "format" "iife") | fingerprint -}}
+<script defer src="{{ $bundle.RelPermalink }}"></script>
+{{- end -}}
