@@ -184,9 +184,9 @@ export default function MovieTimelineSection({ conf, movies = MOVIES, events = E
     <div ref={ref} style={{ position: "relative", background: C.bg, color: C.ink, fontFamily: SANS,
       border: `1px solid ${C.edge}`, borderRadius: 12, padding: "14px 16px 12px" }}>
       <style>{CSS}</style>
-      <div style={{ display: "flex", alignItems: "baseline", gap: 10, padding: "2px 2px 8px" }}>
-        <h3 style={{ margin: 0, fontSize: 16, fontWeight: 700, color: C.ink, letterSpacing: "-0.01em" }}>{conf.title}</h3>
-        <span style={{ fontFamily: MONO, fontSize: 11, color: "#ffffff" }}>{conf.range}</span>
+      <div style={{ display: "flex", alignItems: "baseline", gap: 12, padding: "2px 2px 12px" }}>
+        <h3 style={{ margin: 0, fontSize: 32, fontWeight: 700, color: C.ink, letterSpacing: "-0.01em" }}>{conf.title}</h3>
+        <span style={{ fontFamily: MONO, fontSize: 22, color: "#ffffff" }}>{conf.range}</span>
         {scrollable && <span style={{ marginLeft: "auto", fontSize: 11, color: C.faint }}>⟷ Scroll</span>}
       </div>
 
