@@ -149,6 +149,12 @@ img.qrcode {
 }
 
 .paypal-donate {
-  padding: 2.5rem 0 6rem;
+  padding: 2.5rem 0 0;
   text-align: center;
+}
+
+.paypal-donate::after {
+  content: "";
+  display: block;
+  height: 6rem;
 }
