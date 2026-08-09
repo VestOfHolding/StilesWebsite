@@ -85,3 +85,6 @@ As a bonus, you can use the below graph to look at more of the granular results:
 
   {{< smp-fig name="board-explorer" board="WDR" metric="distance" >}}
 
+If you like what I've done here and want to help support further similar research, please consider donating. It would really help me right now. Thank you.
+
+{{< paypal-donate >}}
