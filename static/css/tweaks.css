@@ -147,3 +147,8 @@ div.skills-heading{
 img.qrcode {
   max-width: 300px !important;
 }
+
+.paypal-donate {
+  margin: 2.5rem 0 6rem;
+  text-align: center;
+}
